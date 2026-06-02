@@ -1,0 +1,4 @@
+aiohttp>=3.10.10
+python-dotenv>=1.2.2
+twitchAPI>=4.3.1
+requests>=2.31.0
