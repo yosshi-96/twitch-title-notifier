@@ -8,6 +8,8 @@ Twitch APIを利用して配信タイトルの変更を監視し、
 ## 使用技術
 - Python 3.11.1
 - Twitch API
+- Tkinter
+- asyncio
 
 ## 主な機能
 - 配信情報取得
@@ -16,3 +18,8 @@ Twitch APIを利用して配信タイトルの変更を監視し、
 
 ## 今後の改善案
 - GUI改修
+
+## 設定
+.env
+
+TARGET_CHANNEL=xxxxx
